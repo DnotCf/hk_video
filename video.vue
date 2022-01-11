@@ -253,10 +253,10 @@ export default {
       showFullScreen: false,
       filterStr: "",
       hkvInfo: {
-        ip: '221.10.75.3',//海康威视摄像头/硬盘录像机的ip地址
-        port: '61101',//海康威视摄像头/硬盘录像机的端口
+        ip: '',//海康威视摄像头/硬盘录像机的ip地址
+        port: '',//海康威视摄像头/硬盘录像机的端口
         username: 'admin',//海康威视摄像头/硬盘录像机的用户名
-        password: 'Nctt123456!',//海康威视摄像头/硬盘录像机的密码
+        password: '',//海康威视摄像头/硬盘录像机的密码
         channels: [],//海康威视摄像头/硬盘录像机的通道
       },
       mySelectWnd: 0,//当前选中的窗口
